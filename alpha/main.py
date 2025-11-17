@@ -17,7 +17,7 @@ def run_script(script_name):
     return result.returncode
 
 jobs = []
-jobs.append(schedule.every().day.at("08:56:00").do(run_script, 'fetch_nseindia.py'))
+#jobs.append(schedule.every().day.at("08:56:00").do(run_script, 'fetch_nseindia.py'))
 jobs.append(schedule.every().day.at("08:58:00").do(run_script, 'filter_instruments_upstox.py'))
 jobs.append(schedule.every().day.at("08:59:00").do(run_script, 'filter_instruments_zerodha.py'))
 jobs.append(schedule.every().day.at("09:00:00").do(run_script, 'fetch_historical_data.py'))

@@ -17,7 +17,7 @@ def run_script(script_name):
     return result.returncode
 
 jobs = []
-jobs.append(schedule.every().day.at("08:50:00").do(run_script, 'fetch_access_token_upstox.py'))
+#jobs.append(schedule.every().day.at("08:50:00").do(run_script, 'fetch_access_token_upstox.py'))
 jobs.append(schedule.every().day.at("08:51:00").do(run_script, 'fetch_access_token_zerodha.py'))
 jobs.append(schedule.every().day.at("08:52:00").do(run_script, 'fetch_instruments_upstox.py'))
 jobs.append(schedule.every().day.at("08:53:00").do(run_script, 'fetch_instruments_zerodha.py'))

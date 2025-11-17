@@ -47,3 +47,6 @@ deactivate
 
 GitHub Access Token: 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
 
+pip install --upgrade --ignore-installed setuptools
+pip install --ignore-installed -r requirements.txt
+
