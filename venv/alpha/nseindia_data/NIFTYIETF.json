@@ -1,0 +1,238 @@
+{
+  "equity_meta_info": {
+    "symbol": "NIFTYIETF",
+    "companyName": "ICICI Prudential Nifty 50 ETF",
+    "industry": "Mutual Fund Scheme",
+    "activeSeries": [
+      "EQ"
+    ],
+    "debtSeries": [],
+    "isFNOSec": false,
+    "isCASec": false,
+    "isSLBSec": true,
+    "isDebtSec": false,
+    "isSuspended": false,
+    "tempSuspendedSeries": [],
+    "isETFSec": true,
+    "isDelisted": false,
+    "isin": "INF109K012R6",
+    "slb_isin": "INF109K012R6",
+    "listingDate": "2013-03-26",
+    "isMunicipalBond": false,
+    "isHybridSymbol": false,
+    "segment": "EQUITY",
+    "quotepreopenstatus": {
+      "equityTime": "17-Nov-2025 09:32:35",
+      "preOpenTime": "17-Nov-2025 09:07:41",
+      "QuotePreOpenFlag": false
+    }
+  },
+  "quote_equity": {
+    "info": {
+      "symbol": "NIFTYIETF",
+      "companyName": "ICICI Prudential Nifty 50 ETF",
+      "industry": "Mutual Fund Scheme",
+      "activeSeries": [
+        "EQ"
+      ],
+      "debtSeries": [],
+      "isFNOSec": false,
+      "isCASec": false,
+      "isSLBSec": true,
+      "isDebtSec": false,
+      "isSuspended": false,
+      "tempSuspendedSeries": [],
+      "isETFSec": true,
+      "isDelisted": false,
+      "isin": "INF109K012R6",
+      "slb_isin": "INF109K012R6",
+      "listingDate": "2013-03-26",
+      "isMunicipalBond": false,
+      "isHybridSymbol": false,
+      "segment": "EQUITY",
+      "isTop10": false,
+      "identifier": "NIFTYIETFEQN"
+    },
+    "metadata": {
+      "series": "EQ",
+      "symbol": "NIFTYIETF",
+      "isin": "INF109K012R6",
+      "status": "Listed",
+      "listingDate": "26-Mar-2013",
+      "industry": "Mutual Fund Scheme",
+      "lastUpdateTime": "17-Nov-2025 09:32:48",
+      "pdSectorPe": "NA",
+      "pdSymbolPe": "NA",
+      "pdSectorInd": "NA",
+      "pdSectorIndAll": "NA"
+    },
+    "securityInfo": {
+      "boardStatus": "Main",
+      "tradingStatus": "Active",
+      "tradingSegment": "Normal Market",
+      "sessionNo": "-",
+      "slb": "Yes",
+      "classOfShare": "Equity",
+      "derivatives": "No",
+      "surveillance": {
+        "surv": null,
+        "desc": null
+      },
+      "faceValue": 10,
+      "issuedSize": 1218317671
+    },
+    "sddDetails": {
+      "SDDAuditor": "-",
+      "SDDStatus": "-"
+    },
+    "currentMarketType": "NM",
+    "priceInfo": {
+      "lastPrice": 292.38,
+      "change": 0.9300000000000068,
+      "pChange": 0.3190941842511604,
+      "previousClose": 291.45,
+      "open": 282.71,
+      "close": 0,
+      "vwap": 292,
+      "stockIndClosePrice": 0,
+      "lowerCP": "232.78",
+      "upperCP": "349.17",
+      "pPriceBand": "20",
+      "basePrice": 0,
+      "intraDayHighLow": {
+        "min": 282.71,
+        "max": 292.91,
+        "value": 292.38
+      },
+      "weekHighLow": {
+        "min": 234.97,
+        "minDate": "07-Apr-2025",
+        "max": 328.24,
+        "maxDate": "08-Sep-2025",
+        "value": 292.38
+      },
+      "iNavValue": "291.99",
+      "checkINAV": true,
+      "tickSize": 0.01,
+      "ieq": ""
+    },
+    "industryInfo": {
+      "macro": "Financial Services",
+      "sector": "Financial Services",
+      "industry": "Capital Markets",
+      "basicIndustry": "Mutual Fund Scheme"
+    },
+    "preOpenMarket": {
+      "preopen": [
+        {
+          "price": 0,
+          "buyQty": 0,
+          "sellQty": 0,
+          "iep": true
+        }
+      ],
+      "ato": {
+        "buy": 0,
+        "sell": 0
+      },
+      "IEP": 0,
+      "totalTradedVolume": 0,
+      "finalPrice": 0,
+      "finalQuantity": 0,
+      "lastUpdateTime": null,
+      "totalBuyQuantity": 0,
+      "totalSellQuantity": 0,
+      "atoBuyQty": 0,
+      "atoSellQty": 0,
+      "Change": 0,
+      "perChange": 0,
+      "prevClose": 0
+    }
+  },
+  "trade_info": {
+    "noBlockDeals": true,
+    "bulkBlockDeals": [
+      {
+        "name": "Session I"
+      },
+      {
+        "name": "Session II"
+      }
+    ],
+    "marketDeptOrderBook": {
+      "totalBuyQuantity": 308750,
+      "totalSellQuantity": 201302,
+      "open": 282.71,
+      "bid": [
+        {
+          "price": 292.25,
+          "quantity": 904
+        },
+        {
+          "price": 292.19,
+          "quantity": 34
+        },
+        {
+          "price": 292.18,
+          "quantity": 35
+        },
+        {
+          "price": 292.15,
+          "quantity": 227
+        },
+        {
+          "price": 292.14,
+          "quantity": 15007
+        }
+      ],
+      "ask": [
+        {
+          "price": 292.39,
+          "quantity": 73
+        },
+        {
+          "price": 292.41,
+          "quantity": 22
+        },
+        {
+          "price": 292.43,
+          "quantity": 5514
+        },
+        {
+          "price": 292.44,
+          "quantity": 601
+        },
+        {
+          "price": 292.45,
+          "quantity": 155
+        }
+      ],
+      "tradeInfo": {
+        "totalTradedVolume": 0.31,
+        "totalTradedValue": 0.89,
+        "totalMarketCap": 35621.17,
+        "ffmc": 35602.897299633005,
+        "impactCost": 0.05,
+        "cmDailyVolatility": "0.73",
+        "cmAnnualVolatility": "13.95",
+        "marketLot": "",
+        "activeSeries": "EQ"
+      },
+      "valueAtRisk": {
+        "securityVar": 4.45,
+        "indexVar": 0,
+        "varMargin": 6,
+        "extremeLossMargin": 2,
+        "adhocMargin": 0,
+        "applicableMargin": 8
+      }
+    },
+    "securityWiseDP": {
+      "quantityTraded": 360199,
+      "deliveryQuantity": 274012,
+      "deliveryToTradedQuantity": 76.07,
+      "seriesRemarks": null,
+      "secWiseDelPosDate": "14-NOV-2025 EOD"
+    }
+  }
+}

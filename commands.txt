@@ -1,0 +1,49 @@
+playwright install / python3 -m playwright install
+
+chmod 400 "alpha-key.pem"
+ec2-13-202-141-208.ap-south-1.compute.amazonaws.com
+ssh -i "alpha-key.pem" ec2-user@ec2-13-202-141-208.ap-south-1.compute.amazonaws.com
+
+sudo su           # Switch to root
+yum update -y     # Update all packages
+reboot            # Reboot if kernel or critical system libraries
+
+gcc --version         # C compiler
+g++ --version         # C++ compiler
+python3 --version     # Python
+git --version         # Git
+
+yum groupinstall "Development Tools" -y      # Installs gcc, g++, make, etc.
+yum install git python3 -y                   # Installs Git and Python 3
+
+mkdir folder_name      # Create a folder
+rmdir folder_name      # Remove a folder
+rm -rf folder_name     # Remove a non-empty folder
+
+touch file_name.ext     # Create a file
+nano file_name.ext      # Create and write in the file
+rm file_name.ext        # Remove a file
+
+https://github.com/niranjan-bhol/renaissance.git     # Clone the github repository
+
+sudo yum install python3-pip -y     # Install pip3
+
+timedatectl     # Check current time settings
+
+sudo timedatectl set-timezone Asia/Kolkata     # Set timezone to Asia/Kolkata
+
+ping kite.trade
+ping 104.16.34.50
+ping -c 10 kite.trade
+ping -c 10 104.16.34.50
+dig+ short kite.trade 
+
+pip freeze > requirements.txt
+pip install -r requirements.txt
+
+python3 -m venv venv
+source venv/bin/activate
+deactivate
+
+GitHub Access Token: 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
+
