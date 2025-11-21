@@ -2981,8 +2981,8 @@
     "trading_symbol": "SAIL",
     "short_name": "STEEL AUTHORITY OF INDIA",
     "qty_multiplier": 1.0,
-    "intraday_margin": 50.0,
-    "intraday_leverage": 2.0
+    "intraday_margin": 33.33,
+    "intraday_leverage": 3.0
   },
   {
     "segment": "BSE_EQ",
@@ -5630,6 +5630,23 @@
   },
   {
     "segment": "BSE_EQ",
+    "name": "MAHARASHTRA SCOOTERS LTD.",
+    "exchange": "BSE",
+    "isin": "INE288A01013",
+    "instrument_type": "A",
+    "instrument_key": "BSE_EQ|INE288A01013",
+    "lot_size": 1,
+    "freeze_quantity": 100000.0,
+    "exchange_token": "500266",
+    "tick_size": 5.0,
+    "trading_symbol": "MAHSCOOTER",
+    "short_name": "MAHARASHTRA SCOOTERS",
+    "qty_multiplier": 1.0,
+    "intraday_margin": 20.0,
+    "intraday_leverage": 5.0
+  },
+  {
+    "segment": "BSE_EQ",
     "name": "CASTROL INDIA LTD.",
     "exchange": "BSE",
     "isin": "INE172A01027",
@@ -6576,8 +6593,8 @@
     "trading_symbol": "GALLANTT",
     "short_name": "GALLANTT METAL",
     "qty_multiplier": 1.0,
-    "intraday_margin": 50.0,
-    "intraday_leverage": 2.0
+    "intraday_margin": 20.0,
+    "intraday_leverage": 5.0
   },
   {
     "segment": "BSE_EQ",
@@ -7228,8 +7245,8 @@
     "trading_symbol": "SAMMAANCAP",
     "short_name": "Indiabulls Housing Fin",
     "qty_multiplier": 1.0,
-    "intraday_margin": 20.0,
-    "intraday_leverage": 5.0
+    "intraday_margin": 50.0,
+    "intraday_leverage": 2.0
   },
   {
     "segment": "BSE_EQ",
@@ -8344,8 +8361,8 @@
     "trading_symbol": "CHENNPETRO",
     "short_name": "CHENNAI PETROLEUM",
     "qty_multiplier": 1.0,
-    "intraday_margin": 50.0,
-    "intraday_leverage": 2.0
+    "intraday_margin": 20.0,
+    "intraday_leverage": 5.0
   },
   {
     "segment": "BSE_EQ",
@@ -9928,8 +9945,8 @@
     "tick_size": 5.0,
     "trading_symbol": "QPOWER",
     "qty_multiplier": 1.0,
-    "intraday_margin": 100.0,
-    "intraday_leverage": 1.0
+    "intraday_margin": 20.0,
+    "intraday_leverage": 5.0
   },
   {
     "segment": "BSE_EQ",
@@ -10918,8 +10935,8 @@
     "tick_size": 5.0,
     "trading_symbol": "PGIL",
     "qty_multiplier": 1.0,
-    "intraday_margin": 20.0,
-    "intraday_leverage": 5.0
+    "intraday_margin": 50.0,
+    "intraday_leverage": 2.0
   },
   {
     "segment": "BSE_EQ",
@@ -11887,8 +11904,8 @@
     "trading_symbol": "INDIGOPNTS",
     "short_name": "INDIGO PAINTS",
     "qty_multiplier": 1.0,
-    "intraday_margin": 20.0,
-    "intraday_leverage": 5.0
+    "intraday_margin": 50.0,
+    "intraday_leverage": 2.0
   },
   {
     "segment": "BSE_EQ",
@@ -12635,8 +12652,8 @@
     "trading_symbol": "LGBBROSLTD",
     "short_name": "LG BALAKRISHNAN & BROS",
     "qty_multiplier": 1.0,
-    "intraday_margin": 50.0,
-    "intraday_leverage": 2.0
+    "intraday_margin": 20.0,
+    "intraday_leverage": 5.0
   },
   {
     "segment": "BSE_EQ",
@@ -14403,8 +14420,8 @@
     "tick_size": 5.0,
     "trading_symbol": "ARSSBL",
     "qty_multiplier": 1.0,
-    "intraday_margin": 20.0,
-    "intraday_leverage": 5.0
+    "intraday_margin": 50.0,
+    "intraday_leverage": 2.0
   },
   {
     "segment": "BSE_EQ",
@@ -14718,6 +14735,23 @@
     "tick_size": 1.0,
     "trading_symbol": "PATELENG",
     "short_name": "PATEL ENGINEERING",
+    "qty_multiplier": 1.0,
+    "intraday_margin": 20.0,
+    "intraday_leverage": 5.0
+  },
+  {
+    "segment": "BSE_EQ",
+    "name": "DALMIA BHARAT SUGAR AND INDUST",
+    "exchange": "BSE",
+    "isin": "INE495A01022",
+    "instrument_type": "B",
+    "instrument_key": "BSE_EQ|INE495A01022",
+    "lot_size": 1,
+    "freeze_quantity": 100000.0,
+    "exchange_token": "500097",
+    "tick_size": 5.0,
+    "trading_symbol": "DALMIASUG",
+    "short_name": "DALMIA BHARAT SUGAR",
     "qty_multiplier": 1.0,
     "intraday_margin": 20.0,
     "intraday_leverage": 5.0
@@ -15467,8 +15501,8 @@
     "tick_size": 5.0,
     "trading_symbol": "YATRA",
     "qty_multiplier": 1.0,
-    "intraday_margin": 20.0,
-    "intraday_leverage": 5.0
+    "intraday_margin": 50.0,
+    "intraday_leverage": 2.0
   },
   {
     "segment": "BSE_EQ",
@@ -16566,8 +16600,8 @@
     "trading_symbol": "GVPIL",
     "short_name": "GE POWER",
     "qty_multiplier": 1.0,
-    "intraday_margin": 20.0,
-    "intraday_leverage": 5.0
+    "intraday_margin": 50.0,
+    "intraday_leverage": 2.0
   },
   {
     "segment": "BSE_EQ",
@@ -17639,8 +17673,8 @@
     "tick_size": 5.0,
     "trading_symbol": "MUFIN",
     "qty_multiplier": 1.0,
-    "intraday_margin": 50.0,
-    "intraday_leverage": 2.0
+    "intraday_margin": 20.0,
+    "intraday_leverage": 5.0
   },
   {
     "segment": "BSE_EQ",
@@ -17938,8 +17972,8 @@
     "tick_size": 5.0,
     "trading_symbol": "RAJRATAN",
     "qty_multiplier": 1.0,
-    "intraday_margin": 50.0,
-    "intraday_leverage": 2.0
+    "intraday_margin": 100.0,
+    "intraday_leverage": 1.0
   },
   {
     "segment": "BSE_EQ",
@@ -19365,6 +19399,23 @@
   },
   {
     "segment": "BSE_EQ",
+    "name": "VARDHMAN HOLDINGS LTD.",
+    "exchange": "BSE",
+    "isin": "INE701A01023",
+    "instrument_type": "B",
+    "instrument_key": "BSE_EQ|INE701A01023",
+    "lot_size": 1,
+    "freeze_quantity": 100000.0,
+    "exchange_token": "500439",
+    "tick_size": 5.0,
+    "trading_symbol": "VHL",
+    "short_name": "VARDHMAN HOLDINGS",
+    "qty_multiplier": 1.0,
+    "intraday_margin": 20.0,
+    "intraday_leverage": 5.0
+  },
+  {
+    "segment": "BSE_EQ",
     "name": "I G PETROCHEMICALS LTD.",
     "exchange": "BSE",
     "isin": "INE204A01010",
@@ -19806,8 +19857,8 @@
     "trading_symbol": "RICOAUTO",
     "short_name": "RICO AUTO INDUSTRIES",
     "qty_multiplier": 1.0,
-    "intraday_margin": 20.0,
-    "intraday_leverage": 5.0
+    "intraday_margin": 50.0,
+    "intraday_leverage": 2.0
   },
   {
     "segment": "BSE_EQ",
@@ -21427,8 +21478,8 @@
     "tick_size": 5.0,
     "trading_symbol": "NRAIL",
     "qty_multiplier": 1.0,
-    "intraday_margin": 20.0,
-    "intraday_leverage": 5.0
+    "intraday_margin": 100.0,
+    "intraday_leverage": 1.0
   },
   {
     "segment": "BSE_EQ",
@@ -21459,6 +21510,23 @@
     "tick_size": 1.0,
     "trading_symbol": "DWARKESH",
     "short_name": "DWARIKESH SUGAR",
+    "qty_multiplier": 1.0,
+    "intraday_margin": 20.0,
+    "intraday_leverage": 5.0
+  },
+  {
+    "segment": "BSE_EQ",
+    "name": "SIL INVESTMENTS LTD.",
+    "exchange": "BSE",
+    "isin": "INE923A01015",
+    "instrument_type": "B",
+    "instrument_key": "BSE_EQ|INE923A01015",
+    "lot_size": 1,
+    "freeze_quantity": 100000.0,
+    "exchange_token": "521194",
+    "tick_size": 5.0,
+    "trading_symbol": "SILINV",
+    "short_name": "SIL INVESTMENTS",
     "qty_multiplier": 1.0,
     "intraday_margin": 20.0,
     "intraday_leverage": 5.0
@@ -22553,8 +22621,8 @@
     "trading_symbol": "VENUSREM",
     "short_name": "VENUS REMEDIES",
     "qty_multiplier": 1.0,
-    "intraday_margin": 20.0,
-    "intraday_leverage": 5.0
+    "intraday_margin": 50.0,
+    "intraday_leverage": 2.0
   },
   {
     "segment": "BSE_EQ",

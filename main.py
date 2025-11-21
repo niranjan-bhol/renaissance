@@ -17,11 +17,12 @@ def run_script(script_name):
     return result.returncode
 
 jobs = []
-#jobs.append(schedule.every().day.at("08:50:00").do(run_script, 'fetch_access_token_upstox.py'))
-jobs.append(schedule.every().day.at("08:51:00").do(run_script, 'fetch_access_token_zerodha.py'))
-jobs.append(schedule.every().day.at("08:52:00").do(run_script, 'fetch_instruments_upstox.py'))
-jobs.append(schedule.every().day.at("08:53:00").do(run_script, 'fetch_instruments_zerodha.py'))
-jobs.append(schedule.every().day.at("08:54:00").do(run_script, 'fetch_margin_list.py'))
+#jobs.append(schedule.every().day.at("08:40:00").do(run_script, 'fetch_access_token_upstox.py'))
+jobs.append(schedule.every().day.at("08:41:00").do(run_script, 'fetch_access_token_zerodha.py'))
+jobs.append(schedule.every().day.at("08:42:00").do(run_script, 'fetch_instruments_upstox.py'))
+jobs.append(schedule.every().day.at("08:43:00").do(run_script, 'fetch_instruments_zerodha.py'))
+jobs.append(schedule.every().day.at("08:44:00").do(run_script, 'fetch_margin_list_equity.py'))
+jobs.append(schedule.every().day.at("08:45:00").do(run_script, 'fetch_margin_list_commodity.py'))
 
 print(f"{datetime.now()} | Scheduler started. Waiting for scheduled times\n")
 

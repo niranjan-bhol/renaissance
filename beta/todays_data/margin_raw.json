@@ -1,0 +1,62 @@
+{
+  "timestamp": "2025-11-17T10:19:50.881378",
+  "margins": {
+    "commodity": {
+      "enabled": false,
+      "net": 0,
+      "available": {
+        "adhoc_margin": 0,
+        "cash": 0,
+        "opening_balance": 0,
+        "live_balance": 0,
+        "collateral": 0,
+        "intraday_payin": 0
+      },
+      "utilised": {
+        "debits": 0,
+        "payout": 0,
+        "liquid_collateral": 0,
+        "stock_collateral": 0,
+        "span": 0,
+        "exposure": 0,
+        "additional": 0,
+        "delivery": 0,
+        "option_premium": 0,
+        "holding_sales": 0,
+        "turnover": 0,
+        "equity": 0,
+        "m2m_realised": 0,
+        "m2m_unrealised": 0
+      }
+    },
+    "equity": {
+      "segment": "EQUITY",
+      "enabled": true,
+      "net": 250000.0,
+      "available": {
+        "adhoc_margin": 0,
+        "cash": 0,
+        "opening_balance": 60000.0,
+        "live_balance": 60000.0,
+        "collateral": 198716,
+        "intraday_payin": 0
+      },
+      "utilised": {
+        "debits": 0,
+        "payout": 0,
+        "liquid_collateral": 198716,
+        "stock_collateral": 0,
+        "span": 0,
+        "exposure": 0,
+        "additional": 0,
+        "delivery": 0,
+        "option_premium": 0,
+        "holding_sales": 0,
+        "turnover": 0,
+        "equity": 0,
+        "m2m_realised": 0,
+        "m2m_unrealised": 0
+      }
+    }
+  }
+}

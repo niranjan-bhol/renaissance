@@ -1,0 +1,259 @@
+{
+  "timestamp": "2025-11-22T01:13:51.885694",
+  "last_updated": "Last updated: 21 Nov 2025",
+  "total_scrips": 28,
+  "margin_list": [
+    {
+      "scrip": "ALUMINI",
+      "lot_size": 1000,
+      "price": 268.65,
+      "nrml": {
+        "margin_amount": 24850,
+        "margin_percent": 9.25
+      }
+    },
+    {
+      "scrip": "ALUMINIUM",
+      "lot_size": 5000,
+      "price": 270.5,
+      "nrml": {
+        "margin_amount": 125106,
+        "margin_percent": 9.25
+      }
+    },
+    {
+      "scrip": "COPPER",
+      "lot_size": 2500,
+      "price": 1013.25,
+      "nrml": {
+        "margin_amount": 234314,
+        "margin_percent": 9.25
+      }
+    },
+    {
+      "scrip": "COTTON",
+      "lot_size": 1,
+      "price": 25800.0,
+      "nrml": {
+        "margin_amount": 2386,
+        "margin_percent": 9.25
+      }
+    },
+    {
+      "scrip": "COTTONOIL",
+      "lot_size": 500,
+      "price": 1270.0,
+      "nrml": {
+        "margin_amount": 71437,
+        "margin_percent": 11.25
+      }
+    },
+    {
+      "scrip": "CRUDEOIL",
+      "lot_size": 100,
+      "price": 5253.0,
+      "nrml": {
+        "margin_amount": 179915,
+        "margin_percent": 34.25
+      }
+    },
+    {
+      "scrip": "CRUDEOILM",
+      "lot_size": 10,
+      "price": 5257.0,
+      "nrml": {
+        "margin_amount": 18005,
+        "margin_percent": 34.25
+      }
+    },
+    {
+      "scrip": "ELECDMBL",
+      "lot_size": 50,
+      "price": 3172.0,
+      "nrml": {
+        "margin_amount": 28278,
+        "margin_percent": 17.83
+      }
+    },
+    {
+      "scrip": "GOLD",
+      "lot_size": 100,
+      "price": 124334.0,
+      "nrml": {
+        "margin_amount": 1038188,
+        "margin_percent": 8.35
+      }
+    },
+    {
+      "scrip": "GOLDGUINEA",
+      "lot_size": 1,
+      "price": 101134.0,
+      "nrml": {
+        "margin_amount": 8343,
+        "margin_percent": 8.25
+      }
+    },
+    {
+      "scrip": "GOLDM",
+      "lot_size": 10,
+      "price": 123664.0,
+      "nrml": {
+        "margin_amount": 103259,
+        "margin_percent": 8.35
+      }
+    },
+    {
+      "scrip": "GOLDPETAL",
+      "lot_size": 1,
+      "price": 12646.0,
+      "nrml": {
+        "margin_amount": 1043,
+        "margin_percent": 8.25
+      }
+    },
+    {
+      "scrip": "GOLDTEN",
+      "lot_size": 1,
+      "price": 124023.0,
+      "nrml": {
+        "margin_amount": 10231,
+        "margin_percent": 8.25
+      }
+    },
+    {
+      "scrip": "KAPAS",
+      "lot_size": 240,
+      "price": 1530.0,
+      "nrml": {
+        "margin_amount": 41310,
+        "margin_percent": 11.25
+      }
+    },
+    {
+      "scrip": "LEAD",
+      "lot_size": 5000,
+      "price": 183.55,
+      "nrml": {
+        "margin_amount": 76815,
+        "margin_percent": 8.37
+      }
+    },
+    {
+      "scrip": "LEADMINI",
+      "lot_size": 1000,
+      "price": 181.65,
+      "nrml": {
+        "margin_amount": 13169,
+        "margin_percent": 7.25
+      }
+    },
+    {
+      "scrip": "MCXBULLDEX",
+      "lot_size": 50,
+      "price": 29240.0,
+      "nrml": {
+        "margin_amount": 187282,
+        "margin_percent": 12.81
+      }
+    },
+    {
+      "scrip": "MCXMETLDEX",
+      "lot_size": 50,
+      "price": 19159.0,
+      "nrml": {
+        "margin_amount": 57477,
+        "margin_percent": 6.0
+      }
+    },
+    {
+      "scrip": "MENTHAOIL",
+      "lot_size": 360,
+      "price": 960.0,
+      "nrml": {
+        "margin_amount": 31968,
+        "margin_percent": 9.25
+      }
+    },
+    {
+      "scrip": "NATGASMINI",
+      "lot_size": 250,
+      "price": 417.6,
+      "nrml": {
+        "margin_amount": 16850,
+        "margin_percent": 16.14
+      }
+    },
+    {
+      "scrip": "NATURALGAS",
+      "lot_size": 1250,
+      "price": 417.6,
+      "nrml": {
+        "margin_amount": 85190,
+        "margin_percent": 16.32
+      }
+    },
+    {
+      "scrip": "NICKEL",
+      "lot_size": 250,
+      "price": 1304.3,
+      "nrml": {
+        "margin_amount": 36683,
+        "margin_percent": 11.25
+      }
+    },
+    {
+      "scrip": "SILVER",
+      "lot_size": 30,
+      "price": 157404.0,
+      "nrml": {
+        "margin_amount": 727678,
+        "margin_percent": 15.41
+      }
+    },
+    {
+      "scrip": "SILVERM",
+      "lot_size": 5,
+      "price": 158282.0,
+      "nrml": {
+        "margin_amount": 117128,
+        "margin_percent": 14.8
+      }
+    },
+    {
+      "scrip": "SILVERMIC",
+      "lot_size": 1,
+      "price": 160367.0,
+      "nrml": {
+        "margin_amount": 23461,
+        "margin_percent": 14.63
+      }
+    },
+    {
+      "scrip": "STEELREBAR",
+      "lot_size": 1,
+      "price": 40280.0,
+      "nrml": {
+        "margin_amount": 4330,
+        "margin_percent": 10.75
+      }
+    },
+    {
+      "scrip": "ZINC",
+      "lot_size": 5000,
+      "price": 297.05,
+      "nrml": {
+        "margin_amount": 167090,
+        "margin_percent": 11.25
+      }
+    },
+    {
+      "scrip": "ZINCMINI",
+      "lot_size": 1000,
+      "price": 297.5,
+      "nrml": {
+        "margin_amount": 33468,
+        "margin_percent": 11.25
+      }
+    }
+  ]
+}

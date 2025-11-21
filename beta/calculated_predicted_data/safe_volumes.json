@@ -1,0 +1,46 @@
+{
+  "NIFTYBEES": {
+    "average_volume": 76229.9,
+    "safe_volume": 15245.98
+  },
+  "CPSEETF": {
+    "average_volume": 24075.216666666667,
+    "safe_volume": 4815.043333333333
+  },
+  "ITBEES": {
+    "average_volume": 162395.31666666668,
+    "safe_volume": 32479.063333333335
+  },
+  "ICICIB22": {
+    "average_volume": 7753.133333333333,
+    "safe_volume": 1550.6266666666666
+  },
+  "JUNIORBEES": {
+    "average_volume": 5941.733333333334,
+    "safe_volume": 1188.3466666666668
+  },
+  "HDFCSML250": {
+    "average_volume": 20611.883333333335,
+    "safe_volume": 4122.376666666667
+  },
+  "MID150BEES": {
+    "average_volume": 11598.916666666666,
+    "safe_volume": 2319.7833333333333
+  },
+  "PSUBNKBEES": {
+    "average_volume": 47989.416666666664,
+    "safe_volume": 9597.883333333333
+  },
+  "NIFTYIETF": {
+    "average_volume": 9486.033333333333,
+    "safe_volume": 1897.2066666666665
+  },
+  "NEXT50IETF": {
+    "average_volume": 13137.083333333334,
+    "safe_volume": 2627.416666666667
+  },
+  "SETFNIF50": {
+    "average_volume": 7854.666666666667,
+    "safe_volume": 1570.9333333333334
+  }
+}
